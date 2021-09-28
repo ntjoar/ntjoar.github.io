@@ -1,0 +1,207 @@
+{
+  "main": {
+    "name": "Nathan Tjoar",
+    "occupation": "IT Specialist (SysAnalysis)",
+    "description": "I am a professional seeking knowledge in all things STEM. Welcome to my portfolio.",
+    "image": "profilepic.jpg",
+    "bio": "I am a software developer with experience in hardware working towards my first professional degree, the CCNA. I love to do open source projects with other people in my free time.",
+    "email": "nathan.tjoar@gmail.com",
+    "phone": "(619) 981-6145",
+    "address": {
+      "street": "1201 Seminole Blvd",
+      "city": "Largo",
+      "state": "FL",
+      "zip": "33770"
+    },
+    "website": "https://ntjoar.github.io/",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nathan.tjoar/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/NathanTjoar",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nathan-tjoar-6985121b6a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/numbnuts_88",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/ntjoar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am an avid software engineer that enjoys learning new technologies to satisfy my curiosity for the unknown.",
+    "education": [
+      {
+        "school": "University of California, Los Angeles",
+        "degree": "B.S. in Computer Science and Engineering",
+        "graduated": "March 2021",
+        "description": "Introduction to Cryptography, Software Engineering, Programming Languages, Algorithms and Complexity, Digital Electronic Circuits, Electrical and Engineering Circuits, Operating system Fundamentals, Statics and Strength of Materials, Elementary Fluid Mechanics, Dynamic Particles and Rigid Bodies"
+      }
+    ],
+    "work": [
+      {
+        "company": "US Department of Veteran Affairs",
+        "title": "IT Specialist (SysAnalysis)",
+        "years": "September 2021 - Present",
+        "description": "Using Selenium, developed tools and software for automated testing and streamlined the testing process."
+      },
+      {
+        "company": "Point Automotive",
+        "title": "iOS Developer",
+        "years": "January 2020 - August 2020",
+        "description": "Designed and built mobile applications for Apple’s iOS platform. Collaborated with the design team to define app features."
+      },
+      {
+        "company": "InHouse Produce",
+        "title": "Software Engineer",
+        "years": "January 2020 - March 2020",
+        "description": "Enhanced applications by identifying opportunities for improvement, making recommendations and designing and implementing systems for microcontrollers."
+      },
+      {
+        "company": "IDE America's, Inc.",
+        "title": "Junior Instrumentation and Control Engineer",
+        "years": "January 2018 - May 2018",
+        "description": "Designed, implemented, updated and troubleshooted ESXi Server, VMware ESX 6.0/6.5 Hosts, VMware vSphere virtual center and windows virtual machines."
+      },
+      {
+        "company": "E-Rehab, LLC",
+        "title": "General Administrator",
+        "years": "February 2017 - December 2017",
+        "description": "Assisted in general administration of office care, communicating with vendors, and uploading testimonials while assisting the HTML team in creating page formats."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C/C++",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Verilog",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "75%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
+      },
+      {
+        "name": "Cisco Hardware",
+        "level": "75%"
+      },
+      {
+        "name": "VMWare",
+        "level": "70%"
+      },
+      {
+        "name": "Windows Server",
+        "level": "65%"
+      },
+      {
+        "name": "Linux",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "UCLA Bookstack",
+        "category": "A website for UCLA students made by UCLA students",
+        "image": "Bookstack.png",
+        "url": "http://www.uclabookstack.com/"
+      },
+      {
+        "title": "IBSA Web Development",
+        "category": "Website I contributed to for a club to advertise their events.",
+        "image": "IBSA.png",
+        "url": "https://www.bruinsibsa.com/"
+      },
+      {
+        "title": "UCLA Scraper",
+        "category": "A scraper to get UCLA classes for a database using Selenium.",
+        "image": "Scraper.png",
+        "url": "https://github.com/ntjoar/UCLAScraper"
+      },
+      {
+        "title": "HealthHub",
+        "category": "A mobile application developed for mental health.",
+        "image": "Healthhub.png",
+        "url": "https://github.com/ntjoar/healthhub/tree/master/healthhub"
+      },
+      {
+        "title": "ntjoar.github.io",
+        "category": "My personal portfolio based on a template. You are viewing this page now!",
+        "image": "Portfolio.png",
+        "url": "https://ntjoar.github.io/"
+      },
+      {
+        "title": "Munchy",
+        "category": "Website built for users to upload a recipe to find grocery stores to get the ingredients from.",
+        "image": "Munchy.png",
+        "url": "https://github.com/ntjoar/Munchy"
+      },
+      {
+        "title": "Cryptographic Sonic Dimension Calculator",
+        "category": "An FPGA app that finds dimensions and has a login capability.",
+        "image": "FPGA.jpg",
+        "url": "https://github.com/ntjoar/CS-152B/tree/main/Final_Project"
+      },
+      {
+        "title": "CS 118 Router Project",
+        "category": "An implemented routing protocol in C and handle the network level of packets.",
+        "image": "CS118.png",
+        "url": "https://github.com/ntjoar/cs118_router_project"
+      }
+    ]
+  }
+}
