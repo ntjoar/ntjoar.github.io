@@ -1,94 +1,105 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Nathan Tjoar",
+    "occupation": "IT Specialist (SysAnalysis)",
+    "description": "I am a professional seeking knowledge in all things STEM. Welcome to my portfolio.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am a software developer with experience in hardware working towards my first professional degree, the CCNA. I love to do open source projects with other people in my free time.",
+    "email": "nathan.tjoar@gmail.com",
+    "phone": "(619) 981-6145",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "1201 Seminole Blvd",
+      "city": "Largo",
+      "state": "FL",
+      "zip": "33770"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://ntjoar.github.io/",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/nathan.tjoar/",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/NathanTjoar",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/nathan-tjoar-6985121b6a/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/numbnuts_88",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/ntjoar",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I am an avid software engineer that enjoys learning new technologies to satisfy my curiosity for the unknown.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of California, Los Angeles",
+        "degree": "B.S. in Computer Science and Engineering",
+        "graduated": "March 2021",
+        "description": "Introduction to Cryptography, Software Engineering, Programming Languages, Algorithms and Complexity, Digital Electronic Circuits, Electrical and Engineering Circuits, Operating system Fundamentals, Statics and Strength of Materials, Elementary Fluid Mechanics, Dynamic Particles and Rigid Bodies"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "US Department of Veteran Affairs",
+        "title": "IT Specialist (SysAnalysis)",
+        "years": "September 2021 - Present",
+        "description": "Using Selenium, developed tools and software for automated testing and streamlined the testing process."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Point Automotive",
+        "title": "iOS Developer",
+        "years": "January 2020 - August 2020",
+        "description": "Designed and built mobile applications for Apple’s iOS platform. Collaborated with the design team to define app features."
+      },
+      {
+        "company": "InHouse Produce",
+        "title": "Software Engineer",
+        "years": "January 2020 - March 2020",
+        "description": "Enhanced applications by identifying opportunities for improvement, making recommendations and designing and implementing systems for microcontrollers."
+      },
+      {
+        "company": "IDE America's, Inc.",
+        "title": "Junior Instrumentation and Control Engineer",
+        "years": "January 2018 - May 2018",
+        "description": "Designed, implemented, updated and troubleshooted ESXi Server, VMware ESX 6.0/6.5 Hosts, VMware vSphere virtual center and windows virtual machines."
+      },
+      {
+        "company": "E-Rehab, LLC",
+        "title": "General Administrator",
+        "years": "February 2017 - December 2017",
+        "description": "Assisted in general administration of office care, communicating with vendors, and uploading testimonials while assisting the HTML team in creating page formats."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "C/C++",
+        "level": "70%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Java",
+        "level": "85%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "Python",
+        "level": "80%"
       },
       {
-        "name": "CSS",
+        "name": "Verilog",
         "level": "90%"
       },
       {
@@ -96,58 +107,100 @@
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
       },
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "75%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
+      },
+      {
+        "name": "Cisco Hardware",
+        "level": "75%"
+      },
+      {
+        "name": "VMWare",
+        "level": "70%"
+      },
+      {
+        "name": "Windows Server",
+        "level": "65%"
+      },
+      {
+        "name": "Linux",
+        "level": "55%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "UCLA Bookstack",
+        "category": "A website for UCLA students made by UCLA students",
+        "image": "Bookstack.png",
+        "url": "http://www.uclabookstack.com/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "IBSA Web Development",
+        "category": "Website I contributed to for a club to advertise their events.",
+        "image": "IBSA.png",
+        "url": "https://www.bruinsibsa.com/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "UCLA Scraper",
+        "category": "A scraper to get UCLA classes for a database using Selenium.",
+        "image": "Scraper.png",
+        "url": "https://github.com/ntjoar/UCLAScraper"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "HealthHub",
+        "category": "A mobile application developed for mental health.",
+        "image": "Healthhub.png",
+        "url": "https://github.com/ntjoar/healthhub/tree/master/healthhub"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "title": "ntjoar.github.io",
+        "category": "My personal portfolio based on a template. You are viewing this page now!",
+        "image": "Portfolio.png",
+        "url": "https://ntjoar.github.io/"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "Munchy",
+        "category": "Website built for users to upload a recipe to find grocery stores to get the ingredients from.",
+        "image": "Munchy.png",
+        "url": "https://github.com/ntjoar/Munchy"
+      },
+      {
+        "title": "Cryptographic Sonic Dimension Calculator",
+        "category": "An FPGA app that finds dimensions and has a login capability.",
+        "image": "FPGA.jpg",
+        "url": "https://github.com/ntjoar/CS-152B/tree/main/Final_Project"
+      },
+      {
+        "title": "CS 118 Router Project",
+        "category": "An implemented routing protocol in C and handle the network level of packets.",
+        "image": "CS118.png",
+        "url": "https://github.com/ntjoar/cs118_router_project"
       }
     ]
   }
