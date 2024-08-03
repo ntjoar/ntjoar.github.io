@@ -4,14 +4,14 @@
     "occupation": "IT Specialist (SysAnalysis)",
     "description": "I am a professional seeking knowledge in all things STEM. Welcome to my portfolio.",
     "image": "profilepic.jpg",
-    "bio": "I am a software developer with experience in hardware working towards my first professional degree, the CCNA. I love to do open source projects with other people in my free time.",
+    "bio": "I am a software developer certified in the CompTIA Network+ working towards learning more cybersecurity. I love to do open source projects with other people in my free time.",
     "email": "nathan.tjoar@gmail.com",
     "phone": "(619) 981-6145",
     "address": {
-      "street": "1201 Seminole Blvd",
-      "city": "Largo",
-      "state": "FL",
-      "zip": "33770"
+      "street": "9600 E Girard Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80231"
     },
     "website": "https://ntjoar.github.io/",
     "resumedownload": "https://github.com/ntjoar/ntjoar.github.io/blob/master/public/Nathan_Tjoar_CV.pdf",
@@ -149,7 +149,15 @@
       {
         "name": "Linux",
         "level": "55%"
-      }
+      },
+      {
+        "name": "Networks",
+        "level": "80%"
+      },
+      {
+        "name": "Computer Security",
+        "level": "80%"
+      },
     ]
   },
   "portfolio": {
